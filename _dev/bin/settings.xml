@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- Settings -->
+<settings>
+	<enterprise>@_ENTERPRISE</enterprise>
+	<project>@_PROJECT</project>
+	<server>@_SERVER</server>
+	<username>@_USERNAME</username>
+	<password>@_PASSWORD</password>
+	<database>@_DATABASE</database>
+	<oracle>
+		<active>false</active>
+		<sid>@_SID</sid>	
+		<port>@_PORT</port>
+	</oracle>
+</settings>
